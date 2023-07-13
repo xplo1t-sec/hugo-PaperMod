@@ -1,0 +1,34 @@
+Params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowToc: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  profileMode:
+    enabled: true
+    title: xplo1t
+    subtitle: Hi there 👋
+    # imageUrl: >-
+    #   https://as2.ftcdn.net/v2/jpg/03/03/62/45/1000_F_303624505_u0bFT1Rnoj8CMUSs8wMCwoKlnWlh5Jiq.jpg
+    # imageTitle: My cat
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Blogs
+        url: /posts
+  socialIcons:
+    - name: Twitter
+      url: https://twitter.com/manash036
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/manash-saikia
+    - name: Github
+      url: https://github.com/xplo1t-sec
+    - name: Bugcrowd
+      url: https://bugcrowd.com/xplo1t
+    - name: Hackerone
+      url: https://hackerone.com/xplo1t
+    - name: Intigriti
+      url: https://app.intigriti.com/profile/xplo1t
+    - name: Yogosha
+      url: https://app.yogosha.com/r/xplo1t
